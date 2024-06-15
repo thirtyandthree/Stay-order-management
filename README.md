@@ -10,7 +10,7 @@
 
 作者本来已经完成了小程序点餐的所有功能，但由于备份过多，在整理时不小心将完整的小程序项目删除了。结果，小程序只能恢复到半个月前的版本。尝试通过淘宝找回数据也未成功，因此只能开源管理端部分。
 
-这是演示的地址：[StayKoi](https://fo.staykoi.asia)
+这是演示的地址：[StayKoi](https://fo.staykoi.asia),https://fo.staykoi.asia/
 注意这只是前端地址，后端地址在这里 [StayGO]([StayKoi](https://fo.staykoi.asia))
 
 https://github.com/thirtyandthree/stay-order-go
