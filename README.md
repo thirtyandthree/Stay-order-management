@@ -32,6 +32,20 @@ pnpm run lint
 ### 自定义配置
 See [Configuration Reference](https://cli.vuejs.org/config/).
 >>>>>>> 2e90719 (init)
+>>>>>>> 
+### 小程序截图 
+
+当时所有功能都完善了，现在只剩壳子了，哭了
+
+当时所有功能都完善了，现在只剩壳子了，哭了
+![管理端截图](https://qiniu.staykoi.asia/github/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240615102556.png)
+![管理端截图](https://qiniu.staykoi.asia/github/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240615102613.png)
+![管理端截图](https://qiniu.staykoi.asia/github/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240615102616.png)
+![管理端截图](https://qiniu.staykoi.asia/github/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240615102619.png)
+![管理端截图](https://qiniu.staykoi.asia/github/%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240615102622.png)
+
+
+
 ### 项目演示图片
 ![管理端截图](https://qiniu.staykoi.asia/github/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240615094823.png)
 ![管理端截图](https://qiniu.staykoi.asia/github/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240615094908.png)
